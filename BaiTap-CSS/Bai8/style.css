@@ -1,0 +1,10 @@
+
+h2 { color: red; }
+.greencolor { color: green; }
+#yellowcolor { color: yellow; }
+ [class] { color: violet; }
+ h3, p, #yellowcolor { color: blue }
+ li em { color: red }
+ h1 em, h2 em, h3 em { color: red; }
+ li h3 em { color: red; }
+    p.violetcolor { color: orange; }

@@ -1,0 +1,14 @@
+html { font-size: 100%; }
+
+article { font-size: 75% } /* 75% x 16px = 12px */
+
+h1 { font-size: 150%; 
+    color: #666666;}
+
+body {
+
+    font-family: Verdana, sans-serif;
+    
+    font-size: 100%;
+
+    }

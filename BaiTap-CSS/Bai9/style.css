@@ -1,0 +1,49 @@
+a {
+
+    text-transform: uppercase;
+}
+h1 {
+    color: darkgreen;
+    
+    text-shadow: .3em .3em silver;
+    }
+    h1 {
+
+        color: #ba9eba;
+  
+        text-shadow:
+  
+          -.05em -.05em .05em white,
+  
+          .03em .03em .05em purple;
+  
+      }
+      h1 {
+
+        color: darkgreen;
+  
+        text-shadow: -.7em -.5em .2em silver,
+  
+                    .2em .2em .1em gray;
+  
+      }
+      body {background-color: thistle;}
+
+      h1 {
+   
+        color: #ba9eba;
+   
+       text-shadow:
+   
+         -.05em -.05em .05em purple,
+   
+        .03em .03em .05em white;
+   
+   }
+
+p#doan1 { text-indent: 2em; }
+p#doan2 { text-indent: 25%; }
+p#doan3 { text-indent: -35px; }
+p#doan1 { text-align: center; }
+p#doan2 { text-align: left; }
+p#doan3 { text-align: right; }

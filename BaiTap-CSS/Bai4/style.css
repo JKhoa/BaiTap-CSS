@@ -1,0 +1,18 @@
+h1 {
+    color: orange; /* Make h1 gray */
+    border-bottom: 1px solid orange; /* Add orange border to h1 bottom */
+}
+
+h2 {
+    color: orange; /* Make h2 orange */
+    margin-left: 100px; /* Add left margin to h2 */
+}
+
+p {
+    margin-left: 100px; /* Add left margin to paragraphs */
+}
+
+img {
+    float: right; /* Move image to the right */
+    margin: 0 12px; /* Add margin around image */
+}
